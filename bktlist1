@@ -86,12 +86,59 @@
       
       <section id="contact" class="contact">
         <div class="inner">
-          <h1>Contact Me</h1>
-          <p>
-            
-          </p>
+          <h1>Contact Us</h1>
+          <div class="row">
+          <div class="column">
+          <div class="container">
+        <h2>Swathi_Prabhu</h2>
+        <h3>VKSSF BATCH:2018</h3>
+        <h3>kswathiprabhu@gmail.com</h3>
+      </div>
+    </div>
+    </div>
+
+
+    <div class="row">
+    <div class="column">
+
+        <div class="container">
+  <h2>Sriraksha_Nayak</h2>
+  <h3>VKSSF_BATCH:2018</h3>
+  <h3>sriraksha119@gmail.com</h3>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="column">
+<div class="container">
+<h2>Sudheesksha_Nayak</h2>
+<h3>VKSSF_BATCH:2019</h3>
+<h3>sudeekshanayak19@gmail.com</h3>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="column">
+<div class="container">
+<h2>Yash_Prabhudesai</h2>
+<h3>VKSSF_BATCH:2019</h3>
+<h3>yashsprabhudesai6@gmail.com</h3>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="column">
+<div class="container">
+<h2>Shreeram_Bhat</h2>
+<h3>VKSSF_BATCH:2019</h3>
+<h3>bhatshreeram2001@gmail.com</h3>
+</div>
+</div>
+</div>
         </div>
-      </section>
     </section>
   </body>
 </html>
