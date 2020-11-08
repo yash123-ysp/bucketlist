@@ -70,22 +70,22 @@ section {
   line-height: 50px;
   color: #fff;
 }
-.education {
+.signin {
   background-color: #fff;
   display: table;
   height: 100vh;
   width: 100%;
 }
-.education .inner {
+.signin .inner {
   padding: 50px;
 }
-.education h1,
-.hobbies h1,
+.signin h1,
+.signup h1,
 .contact h1 {
   font-size: 42px;
 }
-.education .inner div,
-.hobbies .inner div,
+.signin .inner div,
+.signup .inner div,
 .inner div {
   width: 30%;
   margin-left: 5px;
@@ -93,18 +93,18 @@ section {
   float: left;
   text-align: center;
 }
-.education .inner div p,
-.hobbies .inner div p,
+.signin .inner div p,
+.signup .inner div p,
 .inner div li,
 .contact .inner p {
   font-size: 26px;
 }
-.education .inner div img,
-.hobbies .inner div img {
+.signin .inner div img,
+.signup .inner div img {
   width: 100px;
   height: auto;
 }
-.hobbies,
+.signup,
 .contact {
   display: table;
   height: 100vh;
@@ -130,12 +130,13 @@ section {
     font-size: 18px;
     text-align: justify;
   }
-  .education .inner div,
-  .hobbies .inner div,
-  .skills .inner div {
+  .signin .inner div,
+  .signup .inner div,
+  .inner div {
     width: 100%;
   }
-  .hobbies .inner div {
+  .signup .inner div {
     border-bottom: 2px solid #d3d3d3;
   }
-  }
+}
+
