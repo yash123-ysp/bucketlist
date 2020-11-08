@@ -1,0 +1,97 @@
+html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
+    <title>Bucket List</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#education">Sign in</a></li>
+        <li><a href="#hobbies">Sign up</a></li>
+        <li><a href="#contact">Contact Us</a></li>
+      </ul>
+    </nav>
+    <section>
+      <section id="home" class="home">
+        <div class="inner">
+          <img
+            src="https://www.swedishnomad.com/wp-content/images/2019/12/Bucket-List.jpg"
+          />
+          <h1>Bucket List App</h1>
+        </div>
+      </section>
+      <section id="about" class="about">
+        <div class="inner">
+          <h1>About</h1>
+          <p>
+            Heya everybody!! This is a bucket list app designed by SCL- Wildcard team. Use this web app to enter your bucket list. Thank you. 
+          </p>
+        </div>
+      </section>
+      <section id="education" class="education">
+        <div class="inner">
+          <h1>Education</h1>
+          <div>
+            <img
+              src="https://i.ya-webdesign.com/images/school-icon-png-5.png"
+            />
+            <h2>St.Gerosa High School</h2>
+            <p>Till 2016</p>
+          </div>
+          <div>
+            <img
+              src="https://heylangu.com/images/education-icon-home.svg?v=1548322879110"
+            />
+            <h2>St Aloysius PU College</h2>
+            <p>2016-2018</p>
+          </div>
+          <div>
+            <img src="https://image.flaticon.com/icons/png/512/42/42972.png" />
+            <h2>St Joseph Engineering College</h2>
+            <p>2018 - 2022 CSE</p>
+          </div>
+        </div>
+      </section>
+      <section id="hobbies" class="hobbies">
+        <div class="inner">
+          <h1>Hobbies</h1>
+          <div>
+            <img
+              src="https://cdn.iconscout.com/icon/free/png-256/play-game-675401.png"
+            />
+            <p>Gaming</p>
+          </div>
+          <div>
+            <img
+              src="https://icons-for-free.com/iconfiles/png/512/sketch+icon-1320186181251651876.png"
+            />
+            <p>Painting</p>
+          </div>
+          <div>
+            <img
+              src="https://www.shareicon.net/data/2016/01/13/702800_internet_512x512.png"
+            />
+            <p>Surfing Web</p>
+          </div>
+        </div>
+      </section>
+      
+      <section id="contact" class="contact">
+        <div class="inner">
+          <h1>Contact Me</h1>
+          <p>
+            
+          </p>
+        </div>
+      </section>
+    </section>
+  </body>
+</html>
