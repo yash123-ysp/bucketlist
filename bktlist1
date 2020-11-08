@@ -39,49 +39,27 @@
       <section id="signin" class="signin">
         <div class="inner">
           <h1>Education</h1>
-          <div>
-            <img
-              src="https://i.ya-webdesign.com/images/school-icon-png-5.png"
-            />
-            <h2>St.Gerosa High School</h2>
-            <p>Till 2016</p>
+          <div class="textbox">
+           <input type="text" placeholder="Username" name="" value="Username" required>
+	         </div>
+	        <div class="textbox">
+            <input type="password" placeholder="Password" name="" value="" required>
+	        </div>
+            <input class="btn" type="button" name="" value="Sign in">
           </div>
-          <div>
-            <img
-              src="https://heylangu.com/images/education-icon-home.svg?v=1548322879110"
-            />
-            <h2>St Aloysius PU College</h2>
-            <p>2016-2018</p>
-          </div>
-          <div>
-            <img src="https://image.flaticon.com/icons/png/512/42/42972.png" />
-            <h2>St Joseph Engineering College</h2>
-            <p>2018 - 2022 CSE</p>
-          </div>
-        </div>
       </section>
       <section id="signup" class="signup">
         <div class="inner">
-          <h1>Hobbies</h1>
-          <div>
-            <img
-              src="https://cdn.iconscout.com/icon/free/png-256/play-game-675401.png"
-            />
-            <p>Gaming</p>
-          </div>
-          <div>
-            <img
-              src="https://icons-for-free.com/iconfiles/png/512/sketch+icon-1320186181251651876.png"
-            />
-            <p>Painting</p>
-          </div>
-          <div>
-            <img
-              src="https://www.shareicon.net/data/2016/01/13/702800_internet_512x512.png"
-            />
-            <p>Surfing Web</p>
-          </div>
-        </div>
+           <h1>Sign up</h1>
+        <div class="textbox">
+          <input type="email" placeholder="email-id" name="" value="email" required>
+      <input type="text" placeholder="Username" name="" value="Username" required>
+	  </div>
+	  <div class="textbox">
+      <input type="password" placeholder="Password" name="" value="" required>
+	  </div>
+      <input class="btn" type="button" name="" value="Sign in">
+      </div>
       </section>
       
       <section id="contact" class="contact">
