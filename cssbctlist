@@ -115,6 +115,8 @@ section {
 }
 .contact .inner {
   text-align: center;
+  background-image:url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+  background-size:cover;
 }
 @media (min-width: 320px) and (max-width: 767px) {
   nav {
